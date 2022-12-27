@@ -22,11 +22,7 @@ A4:
 
 A5:
 
-1) 
-  a) Converting a colored image to HSI.
-  b) Canny Edge Detection
+1) Converting a colored image to HSI, Canny Edge Detection
 
-2)
-  a) Converting an image to Lab.
-  b) Otsu Thresholding
+2) Converting an image to Lab, Otsu Thresholding
   
