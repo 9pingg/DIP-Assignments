@@ -1,5 +1,6 @@
 # DIP-Assignments
-This repo contains all the assignments given in the Digital Image Processing course.
+
+##This repo contains all the assignments given in the Digital Image Processing course.
 
 A1: bilinear interpolation
 
