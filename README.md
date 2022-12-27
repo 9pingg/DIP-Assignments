@@ -21,11 +21,13 @@
 ## A4: 
 
 1) Custom filter to denoise an image and comparing the results with weiner filter.
-2) LoG filter, Zero crossing, 1-D Gaussian filters with second order derivative filters
+2) Filtering with 1-D Gaussian filters and second order derivative filters.
+3) LoG filter
+4) Zero crossing
 
 ## A5:
 
-1) Converting a colored image to HSI, Canny Edge Detection
-
-2) Converting an image to Lab, Otsu Thresholding
+1) Converting a colored image to HSI and Lab.
+2) Canny Edge Detection
+3) Otsu Thresholding
   
