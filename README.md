@@ -4,7 +4,7 @@
 
 ## A1: 
 
-1) bilinear interpolation
+1) Bilinear interpolation
 
 ## A2:
 
